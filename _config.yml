@@ -28,7 +28,7 @@ twitter_username: AdamJMosley
 github_username: ajmosley
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
